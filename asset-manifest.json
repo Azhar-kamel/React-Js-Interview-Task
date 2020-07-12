@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Js-Interview-Task/static/css/main.7c73b0b4.chunk.css",
+    "main.js": "/React-Js-Interview-Task/static/js/main.639bc5be.chunk.js",
+    "main.js.map": "/React-Js-Interview-Task/static/js/main.639bc5be.chunk.js.map",
+    "runtime-main.js": "/React-Js-Interview-Task/static/js/runtime-main.faa6da95.js",
+    "runtime-main.js.map": "/React-Js-Interview-Task/static/js/runtime-main.faa6da95.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/React-Js-Interview-Task/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ede44464.chunk.js": "/React-Js-Interview-Task/static/js/2.ede44464.chunk.js",
+    "static/js/2.ede44464.chunk.js.map": "/React-Js-Interview-Task/static/js/2.ede44464.chunk.js.map",
+    "index.html": "/React-Js-Interview-Task/index.html",
+    "precache-manifest.ed80f3aab5d6df7ba0294e8e506b379b.js": "/React-Js-Interview-Task/precache-manifest.ed80f3aab5d6df7ba0294e8e506b379b.js",
+    "service-worker.js": "/React-Js-Interview-Task/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/React-Js-Interview-Task/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.7c73b0b4.chunk.css.map": "/React-Js-Interview-Task/static/css/main.7c73b0b4.chunk.css.map",
+    "static/js/2.ede44464.chunk.js.LICENSE.txt": "/React-Js-Interview-Task/static/js/2.ede44464.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faa6da95.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.ede44464.chunk.js",
+    "static/css/main.7c73b0b4.chunk.css",
+    "static/js/main.639bc5be.chunk.js"
+  ]
+}
